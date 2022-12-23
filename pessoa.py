@@ -1,4 +1,4 @@
-class pesoa:
+class pessoa:
 
    cpf = 0
    nome = ""
