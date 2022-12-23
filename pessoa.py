@@ -1,7 +1,7 @@
 class pesoa:
 
    cpf = 0
-   nome = 0
+   nome = ""
 
    def printp(self):
      print(self.cpf, self.nome)
